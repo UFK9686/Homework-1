@@ -26,3 +26,13 @@ Since the fall of Mt. Gox and BitInstant, new platforms with tighter security me
 The business impact of Coinbase is that it has revoltionized cyrpto trading, on a retail level. When Bitcoin initially arrived, there were attempts to create an exchange on Wallstreet, that many felt was not suitable to the idea behind the actual objective of decentralized currency. As a result, Coinbase emerged becaise it allows users to buy and sell cryptocurrency at their fingertips, using their mobile platform.
 
 Companies in the domain measure success mainly off of trade volume, market share and the number of users that utilize their platform. Coinbase currently is the number one used platform for trading in the United States, and third in the world behind Binance and Huobi. The current volume over the last 24 hours is $3,228,480,302, with 11,671,937 visits. Coinbase currently offers 46 coins in 129 markets (Coinmarketcap). Coinbase is at the very center of the crypto world, and poised for aggressive expansion as it prepares to go public.
+
+## Recommendations
+
+If I were to advise the company, I would recommend they immediately do two things:
+
+1.) Lower transaction fees in order to better compete with Binance. User ratings and comments under "cons" almost unanimously cite the significantly higher transaction fees on coinbase. Alternative revenue streams must be considered in order to offset losses from lowering the fees. Perhaps reinstating margin trading can help bolster profits, or advertising space.
+
+2.) Expand the number of altcoins available to trade. The obvious reason for this recommendation would be to attract more users, increase marketshare and volume, thus increasing profits. The popularity and awareness of the technology behind cryptocurrency is rapidly becoming more mainstream.After seeing record inflows to Bitcoin, followed by a surge in Ethereum where it outperforms BTC, we can now expect investors to start directing funds into other large and small-cap assets (Yahoo Finance). Therefore, it will be imperative to add new options to the platform to keep pace with the market conditions.
+
+New technology such as synthetic assets will also help grow the platform, introducing the concept of contracts in the form of tokens. Synthetic assets can tokenize physical assets, bringing them onto a blockchain and imbuing them with all the advantages of cryptocurrency. Where derivatives are financial contracts that provide custom exposure to an underlying asset or financial position, synthetic assets are simply tokenized representations of similar positions (Coinbase blog). 
