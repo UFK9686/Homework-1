@@ -14,3 +14,11 @@ Coinbase is tailored specifically towards the retail cryptoinvestor, a good comp
 CoinBase uses many different type of technologies to maximize user experience and platform efficiency. One new technology they use is container technology. Companies choose to containerize their applications to increase engineering output/developer productivity in a quick, safe, and reliable manner. Containers enable engineers to develop, test, and run their applications locally in the same or similar manner that they will run in other environments (Coinbase blog). Containers enable a parallel system of collaboration resulting in quicker decisions.
 
 Another technology implemented by Coinbase is Bazel monorepo. This system was designed in order to combat the problem of having multiple mircroservices integrating with various payment partners which resulted in frequent code replication (Coinbaseblog). The solution this technology offers is accomplished by migrating the payment services into a single monorepo.
+
+## Landscape
+
+Coinbase is in the Blockchain/ Cryptocurrency, personal finance, deposits, payments/billing, investment management and wealth management domains of the financial industry. Over the last five to ten years has been the birth of the core for Coinbase, Binance and all other cryptocurrency exchange platforms. Early platforms faced the stiff challenge of keeping hackers out, the most prominent failure in regards to hackers was Mt. Gox. In June 2011, came the first hack, with a total of 2,650 BTC removed. As a result, security measures were beefed up, and despite this, Mt. Gox went on to establish itself as the world’s largest bitcoin exchange by 2013 (Medium).
+
+Since the fall of Mt. Gox and BitInstant, new platforms with tighter security measures and advanced technology came onto the scene. With this influx of new platforms, came the existence of new alternatives to Bitcoin now commonly known as altcoins (Medium). The 2017 alt season and ICO boom bought exponential growth, especially from new, user-led exchanges like Binance and Coinbase. Today, there are 8,613 cryptocurrencies with a market cap of $1,359,932,196,554 thanks to the emergence of post alt coin platforms Binance, Huobi and Coinbase (Coinmarketcap).
+
+## Results
