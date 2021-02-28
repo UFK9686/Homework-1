@@ -1,2 +1,1 @@
-# Homework-1
-FinTech Domain Case Study
+# Coinbase: Beneath The Surface
