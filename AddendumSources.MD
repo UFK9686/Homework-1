@@ -13,7 +13,9 @@
 
 7.) [Bit Degree](https://www.bitdegree.org/crypto/coinbase-vs-binance)
 
-8.) [Coinbase Blog](https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c) (https://blog.coinbase.com/around-the-block-8-the-promise-and-potential-of-synthetic-assets-9fbb15c2b24e)
+8.) [Coinbase Blog](https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c) 
+
+[Coinbase Blog 2](https://blog.coinbase.com/around-the-block-8-the-promise-and-potential-of-synthetic-assets-9fbb15c2b24e)
 
 9.) [Medium](https://medium.com/the-capital/a-brief-history-of-cryptocurrency-exchanges-2b48d4531918)
 
